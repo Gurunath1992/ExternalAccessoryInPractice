@@ -1,4 +1,4 @@
-# ExternalAccessorySample
+# ExternalAccessoryInPractice
 Sample project showing the use of Apple's ExternalAccessory framework for communication between iOS devices and its accessories
 
 Make sure to change the name of the protocol that your gadget uses before running this code.
